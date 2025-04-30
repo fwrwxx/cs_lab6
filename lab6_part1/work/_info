@@ -1,0 +1,69 @@
+m255
+K3
+13
+cModel Technology
+dD:\kpi\schemotech
+vbitsum
+I9Of[L4?;3DPl`>^Wn6IL_0
+Vi9NGmz9LhHK1Bn8hXVK7o2
+Z0 dD:\kpi\schemotech\lab6_part1
+w1746004888
+8D:/kpi/schemotech/lab6_part1/bitsum.v
+FD:/kpi/schemotech/lab6_part1/bitsum.v
+L0 1
+Z1 OV;L;6.5b;42
+r1
+31
+Z2 !s102 -nocovercells
+Z3 o-work work -nocovercells -O0
+!s100 YFXnIH_6dIfRh<Mj[T;aO2
+!s85 0
+!s101 -O0
+vmy_sum
+IROn1MGoR[]<b?Ike1oXCc1
+V>AYa<]z<eWj:6=M96`WNj3
+Z4 dD:\kpi\schemotech\lab6_part1
+w1746004341
+8D:/kpi/schemotech/lab6_part1/my_sum.v
+FD:/kpi/schemotech/lab6_part1/my_sum.v
+L0 1
+R1
+r1
+31
+R2
+R3
+!s100 ^H1j[K[<kzRnPm5nJZI0H1
+!s85 0
+!s101 -O0
+vref_sum
+IaEUP8WlebK6aNR=[>E[k31
+V2OO;EahzC8PXB3K:FbSOT0
+R4
+w1746004475
+8D:/kpi/schemotech/lab6_part1/ref_sum.v
+FD:/kpi/schemotech/lab6_part1/ref_sum.v
+L0 1
+R1
+r1
+31
+R2
+R3
+!s100 hU7=JJ@;L8_j0o^TBnk4D3
+!s85 0
+!s101 -O0
+vtest_sum
+!s100 :SY`J<DQk?F1zefV>Z^ST2
+IO:U:?<i5Q1EEa0ZNND_MF1
+V?[S@XOc7;P58OizZje^Po0
+R4
+w1746004890
+8D:/kpi/schemotech/lab6_part1/test_sum.v
+FD:/kpi/schemotech/lab6_part1/test_sum.v
+L0 1
+R1
+r1
+!s85 0
+31
+!s101 -O0
+R2
+R3
